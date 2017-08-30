@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\489407b9bae679ba23194af4a43827ac400c4e42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_652f5fe3f6df982807a2bea0b08cf87272dec1df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\d18c87168d4b0dd200cf23581a2f808fc70e8c38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_204eb86cb2f5787abf1685cf20adbc47c15ae44c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\97529e25b7d09db6db1debc3f5c844738a53a591\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c06f05741410c3c8d3202d4ac84aad6f194425f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fdf7e1fedf1966c5d985a386953d961c46ccba38">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_421fd0e27195d54b7fd1b49137ced9d4fa35cc1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_0f1b1d3f1d7b3b34d400a5b9a68cda9e33a89153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\712110d49038619aa6dddd5c1ed9f9fb3bcaeb92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a24856a97cfe5459c5c6ea35395270f1c9ae6b22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\638dd250fa5874768ab86f378305828147d05b09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1abaf01b5db8b867e42e85d518d5121c09326b6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\d1aad13a70f40ea0aa587651a387c1229e2b3b5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08f6b705f6155167d28de231e3fd69541c86c8ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\b27dfbedfa0f82d0d5af7761ea3cfff83e42f579\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82ad1c1f10a9b6d1a93cd4510c5f4986b33b5b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a448371b005a1b7d8f98c4579bb78677705a4f18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\d96a8b36a1fa2a1ebbe77cadc2f7ab22ec984601\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ad5a27733f72880155b5f75f4dd7f05a59f279a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juanf\.android\build-cache\3885fc8aa49ddfd29f7d824efe764de90ecef134\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\juanf\OneDrive\Documentos\ejemplos\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd88dda8177cac910880a219b9ae1385b494b931\classes.dex" />
+    </item>
+
+</items>

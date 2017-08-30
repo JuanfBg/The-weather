@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Weather</string>
+    <string name="hello_world">¡Hello world!</string>
+    <string name="action_settings">Setting</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="thursday"> thursday</string>
+    <string name="friday">friday</string>
+    <string name="saturday">saturday</string>
+    <string name="sunday">sunday</string>
+
+    <string name="sunny">sunny</string>
+    <string name="cloudy">cloudy</string>
+    <string name="mist">mist</string>
+
+</resources>
